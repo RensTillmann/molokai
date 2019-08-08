@@ -1,4 +1,4 @@
-# Molokai Color Scheme for Vimddd
+# Molokai Color Scheme for Vim
 
 Molokai is a Vim port of the monokai theme for TextMate originally created by Wimer Hazenberg.
 
